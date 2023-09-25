@@ -1,6 +1,10 @@
 <h1 align="center">Hola! Soy Luana Martinez</h1>
 <h3 align="center">Estudiante de desarrollo web full-stack </h3>
 
+<img align="right" alt="Coding" width="350" src="https://i.postimg.cc/JzQmxxqL/descarga.gif' border='0' alt='descarga'">
+
+- 📝 **Actualmente estudiando Desarrollo Web en Educación IT.**
+
 ## 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=whithe)](https://www.linkedin.com/in/luanadaianamartinez) 
 
